@@ -1,0 +1,27 @@
+{
+  "name": "bp-rating",
+  "version": "1.0.10",
+  "description": "Best Price Rating",
+  "main": "index.js",
+  "dependencies": {
+    "vitepress": "^0.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/draschke/bp-rating.git"
+  },
+  "keywords": [
+    "best price rating",
+    "best price rating website",
+    "best price rating websites",
+    "bp-rating"
+  ],
+  "author": "Dirk Raschke",
+  "homepage": "https://github.com/draschke/bp-rating.git#readme"
+}
