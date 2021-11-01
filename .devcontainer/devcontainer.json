@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/vscode-remote/devcontainer.json or this file's README at:
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.101.0/containers/typescript-node-12
 {
-  "name": "TBase - a medical clinical research platform build with SAP HANA XSA",
+  "name": "Best Price Rating Domain for Sale",
   "dockerFile": "Dockerfile",
   // Set *default* container specific settings.json values on container create.
   // The default user settings file is located here:
@@ -119,15 +119,6 @@
     "-v",
     "/var/run/docker.sock:/var/run/docker.sock"
   ],
-  // "runArgs": ["-v", "/var/run/docker.sock:/var/run/docker.sock", "-v", "/usr/local/share/kube-devcontainer://wsl$/Ubuntu-20.04/home/user/.kube/config"],
-  // https://stackoverflow.com/questions/58227845/how-can-i-use-an-env-file-to-pass-environment-variables-into-a-standalone-vscode
-  // file .env
-  // MY_URL=https://my.com/
-  // MY_SECRET=unicorns
-  //   "runArgs": [
-  //     "--env-file", "${localWorkspaceFolder}/.devcontainer/.env"
-  // ],
-  // Use 'forwardPorts' to make a list of ports inside the container available locally.
   "forwardPorts": [
     3000,
     4000,
@@ -137,9 +128,6 @@
     8080
   ],
   // Use 'postCreateCommand' to run commands after the container is created.
-  // "postCreateCommand": "npm install && npm audit fix && npm install --prefix /workspaces/yourAppName/db && --prefix /workspaces/yourAppName/js && npm install --prefix /workspaces/yourAppName/web",
-  // "postCreateCommand": "npm install && npm audit fix && npm install --prefix /workspaces/yourAppName/db && npm install --prefix /workspaces/yourAppName/js && npm start --prefix /workspaces/yourAppName/js && npm audit fix --prefix /workspaces/yourAppName/js && npm install --prefix /workspaces/yourAppName/web &&  npm start --prefix /workspaces/yourAppName/db",
-  // "postStartCommand": "bash -i -c 'nvm install --lts --latest-npm'",
   // "postStartCommand": "nvm install --lts --latest-npm",
   // Uncomment to connect as a non-root user. See https://aka.ms/vscode-remote/containers/non-root.
   "remoteUser": "node"
