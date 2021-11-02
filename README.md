@@ -1,4 +1,4 @@
-# Best Price Rating Domain (www.bp-rating.com) for Sale
+# Domain www.bp-rating.com for Sale
 
 <p align='center'>
 I'm Dirk 👨‍💻, Germany (Berlin)

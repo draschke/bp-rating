@@ -1,14 +1,14 @@
 let ogprefix = "og: http://ogp.me/ns#";
-let title = "Best Price Rating Domain (www.bp-rating.com) for Sale";
-let description = "Best Price Rating Domain (www.bp-rating.com) for Sale";
+let title = "Domain www.bp-rating.com for Sale";
+let description = "Domain www.bp-rating.com for Sale";
 let color = "#f42525";
 let author = "Dirk Raschke";
 let email = "draschke@googlemail.com";
 
 module.exports = {
   lang: "en-US",
-  title: "Best Price Rating Domain (www.bp-rating.com) for Sale",
-  description: "Best Price Rating Domain (www.bp-rating.com) for Sale",
+  title: "Domain www.bp-rating.com for Sale",
+  description: "Domain www.bp-rating.com for Sale",
   // base: "/bp-rating/",
   head: [
     // ["link", { rel: "icon", href: `/assets/favicon.ico` }],
